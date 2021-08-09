@@ -1,10 +1,13 @@
-**mrdcvlsc/mrdcvlsc**
+# Welcome
 
-- 🌱 I’m currently learning concepts in : Linear Algebra | Matrix-Matrix Operations | Cpu Optimizations | Fast Algorithms | Arbitrary-Precision Arithmetic | Machine Learning Models | etc.
-- 
+## I'm mrdcvlsc
+
+### I'm a Computer Science student, Coding Enthusiast(kinda),
+
+- 🌱 I’m currently learning concepts in : Linear Algebra | Matrix-Matrix Operations | Code to Cpu Utilization | Optimization | Fast Algorithms | Arbitrary-Precision Arithmetic | Machine Learning Algorithms | etc.
 - 📫 email : mordecaivelasco@gmail.com  
 
-**I write in**
+**languages that I write in :**
 <p float="left">
   <img src="lang/C.png" width="50px" height="50px">
   <img src="lang/C++.png" width="50px" height="50px">
