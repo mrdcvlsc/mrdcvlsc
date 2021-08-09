@@ -13,4 +13,11 @@
 
 <button type="button">click me</button>
 
-<img src="https://user-images.githubusercontent.com/59404502/128731792-61b02b39-6240-40c8-8182-753361e1dd38.png" height="10px width="10px"/>
+**Languages the I write in**
+<p float="left">
+<img src="lang/C.png" width="50px" height="50px">
+<img src="lang/C++.png" width="50px" height="50px">
+<img src="lang/JS.png" width="50px" height="50px">
+<img src="lang/py.png" width="50px" height="50px">
+<img src="lang/java.png" width="50px" height="50px">
+</p>
