@@ -2,7 +2,7 @@
 
 ## I'm mrdcvlsc
 
-### I'm a Computer Science student, Coding Enthusiast(kinda),
+### I'm a computer science student, I like coding and I also hate it.
 
 - 🌱 I’m currently learning concepts in : Linear Algebra | Matrix-Matrix Operations | Code to Cpu Utilization | Optimization | Fast Algorithms | Arbitrary-Precision Arithmetic | Machine Learning Algorithms | etc.
 - 📫 email : mordecaivelasco@gmail.com  
