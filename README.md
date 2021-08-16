@@ -17,3 +17,9 @@
   <img src="lang/php.png" width="75px" height="50px">
   <img src="lang/css.png" width="95px" height="55px">
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=mrdvlsc"/>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true)
+
+<!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&theme=blue-green)-->
