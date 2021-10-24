@@ -4,7 +4,16 @@
 
 ### I'm a computer science student, I like coding and I also hate it.
 
-- 🌱 I’m currently learning concepts in : Linear Algebra | Matrix-Matrix Operations | Code to Cpu Utilization | Optimization | Fast Algorithms | Arbitrary-Precision Arithmetic | Machine Learning Algorithms | etc.
+- 🌱 I’m currently learning concepts in :
+
+  - Linear Algebra
+  - BLAS Libraries, how to implemented and optimize them
+  - Arbitrary-Precision Arithmetic
+  - Machine Learning and Neural Networks like FFNN,CNN,GAN
+  - Full-stack development using node.js and laravel
+
+--------------
+
 - 📫 email : mordecaivelasco@gmail.com  
 
 **languages that I write in :**
