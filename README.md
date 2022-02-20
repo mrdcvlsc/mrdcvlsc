@@ -1,16 +1,17 @@
-# Welcome
+## Welcome to my GitHub profile!!!
 
-## I'm mrdcvlsc
+### I'm mrdcvlsc
 
-### I'm a computer science student, I like coding and I also hate it.
-
-- 🌱 I’m currently learning concepts in :
-
+- I'm still currently a student :student: taking up a degree in computer science
+- At the same time I'm also growing 🌱 my knowledge and mostly learning :brain: new things :books: on my own in the following concepts :
   - Linear Algebra
-  - BLAS Libraries, how to implemented and optimize them
+  - BLAS Libraries & Matrix Libraries
+  - x86 & x86-64 Assembly (for optimization)
+  - SIMD Assembly Instructions & Intrinsics (for optimization)
   - Arbitrary-Precision Arithmetic
-  - Machine Learning and Neural Networks like FFNN,CNN,GAN
-  - Full-stack development using node.js and laravel
+  - Machine Learning specifically on types Neural Networks like FFNN,CNN,GAN & even on transformers models
+  - Full-stack development with node.js and laravel for backend
+  - Cryptography and Web Security
 
 --------------
 
@@ -30,5 +31,3 @@
 <img src="https://komarev.com/ghpvc/?username=mrdvlsc"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true)
-
-<!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&theme=blue-green)-->
