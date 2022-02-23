@@ -9,7 +9,7 @@
   - x86 & x86-64 Assembly (for optimization)
   - SIMD Assembly Instructions & Intrinsics (for optimization)
   - Arbitrary-Precision Arithmetic
-  - Machine Learning specifically on types Neural Networks like FFNN,CNN,GAN & even on transformers models
+  - Machine Learning specifically on types of Neural Networks like FFNN,CNN,GAN & even on transformers models
   - Full-stack development with node.js and laravel for backend
   - Cryptography and Web Security
 
