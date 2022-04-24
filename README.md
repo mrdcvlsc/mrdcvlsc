@@ -15,7 +15,7 @@
 
 --------------
 
-- 📫 email : mordecaivelasco@gmail.com  
+- 📫 email : mrdcvlsc@gmail.com  
 
 **languages that I write in :**
 <p float="left">
