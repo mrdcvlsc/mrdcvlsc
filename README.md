@@ -21,40 +21,40 @@
 
 <p align="center">
   <a href="https://github.com/mrdcvlsc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=aura_dark&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true" />
   </a>
 
   <a href="https://github.com/mrdcvlsc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&layout=compact&langs_count=10&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&layout=compact&langs_count=10&theme=default" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mrdcvlsc/APA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=APA&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=APA&theme=default" />
   </a>
 
   <a href="https://github.com/mrdcvlsc/fastify-session-better-sqlite3-store">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=fastify-session-better-sqlite3-store&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=fastify-session-better-sqlite3-store&theme=default" />
   </a>
 
   <a href="https://github.com/mrdcvlsc/machine-learning-lab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=machine-learning-lab&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=machine-learning-lab&theme=default" />
   </a>
 
   <a href="https://github.com/mrdcvlsc/ChaCha20-Poly1305">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=ChaCha20-Poly1305&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=ChaCha20-Poly1305&theme=default" />
   </a>
 
   <a href="https://github.com/mrdcvlsc/password-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=password-manager&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=password-manager&theme=default" />
   </a>
 
   <a href="https://github.com/mrdcvlsc/analyse-pgn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=analyse-pgn&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=analyse-pgn&theme=default" />
   </a>
 
   <a href="https://github.com/mrdcvlsc/m-pos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=m-pos&theme=aura_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=m-pos&theme=default" />
   </a>
 </p>
