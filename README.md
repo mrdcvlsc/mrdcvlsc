@@ -1,8 +1,10 @@
-## **Welcome to my GitHub profile!!!**
+## **Hi, I'm Mordecai Velasco!**
 
-### **I'm mrdcvlsc**
+Welcome to my GitHub profile.
 
-- I'm still currently a student :student: taking up a degree in computer science
+### **Interests**
+
+- I'm still currently a student :student: taking up a degree in computer science.
 - At the same time I'm also growing 🌱 my knowledge and mostly learning :brain: new things :books: on my own in the following concepts :
   - Linear Algebra
   - BLAS Libraries & Matrix Libraries
@@ -10,10 +12,11 @@
   - SIMD Assembly Instructions & Intrinsic (for optimization)
   - Arbitrary-Precision Arithmetic
   - Machine Learning specifically on types of Neural Networks like FFNN,CNN,GAN & even on transformers models
-  - Full-stack development with node.js and Laravel for backend
-  - Cryptography and Web Security
+  - Full-stack development
+  - Cryptography & Web Security
+  - Compilers & Automata Theory
 
-- 📫 email : mrdcvlsc@gmail.com  
+- 📫 email : mrdcvlsc@gmail.com
 
 -----
 
