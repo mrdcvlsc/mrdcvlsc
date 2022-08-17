@@ -19,7 +19,7 @@
 
 - 📫 email : mrdcvlsc@gmail.com
 
-<p align="center">
+<p>
   <a href="https://github.com/mrdcvlsc">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true" />
   </a>
