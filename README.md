@@ -15,19 +15,46 @@
 
 --------------
 
-- 📫 email : mrdcvlsc@gmail.com  
+- <img src="https://komarev.com/ghpvc/?username=mrdvlsc"/>
 
-**languages that I write in :**
-<p float="left">
-  <img src="lang/C.png" width="50px" height="50px">
-  <img src="lang/C++.png" width="50px" height="50px">
-  <img src="lang/py.png" width="60px" height="60px">
-  <img src="lang/java.png" width="60px" height="60px">
-  <img src="lang/JS.png" width="60px" height="60px">
-  <img src="lang/php.png" width="75px" height="50px">
-  <img src="lang/css.png" width="95px" height="55px">
+- 📫 email : mrdcvlsc@gmail.com
+
+<p align="center">
+  <a href="https://github.com/mrdcvlsc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=aura_dark&count_private=true" />
+  </a>
+
+  <a href="https://github.com/mrdcvlsc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&layout=compact&langs_count=10&theme=aura_dark" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mrdvlsc"/>
+<p align="center">
+  <a href="https://github.com/mrdcvlsc/APA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=APA&theme=aura_dark" />
+  </a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true)
+  <a href="https://github.com/mrdcvlsc/fastify-session-better-sqlite3-store">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=fastify-session-better-sqlite3-store&theme=aura_dark" />
+  </a>
+
+  <a href="https://github.com/mrdcvlsc/machine-learning-lab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=machine-learning-lab&theme=aura_dark" />
+  </a>
+
+  <a href="https://github.com/mrdcvlsc/ChaCha20-Poly1305">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=ChaCha20-Poly1305&theme=aura_dark" />
+  </a>
+
+  <a href="https://github.com/mrdcvlsc/password-manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=password-manager&theme=aura_dark" />
+  </a>
+
+  <a href="https://github.com/mrdcvlsc/analyse-pgn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=analyse-pgn&theme=aura_dark" />
+  </a>
+
+  <a href="https://github.com/mrdcvlsc/m-pos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdcvlsc&repo=m-pos&theme=aura_dark" />
+  </a>
+</p>
