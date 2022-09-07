@@ -20,11 +20,11 @@ Welcome to my GitHub profile.
 
 -----
 
-### **Github Stats**
+### **Dash Board**
 
 ![Dashboard](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html&layout=compact&langs_count=10&theme=default)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default)
 
 -----
 
