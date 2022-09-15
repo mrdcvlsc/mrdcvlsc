@@ -28,9 +28,9 @@ Welcome to my GitHub profile.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default) -->
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default">
 
 </div>
 
