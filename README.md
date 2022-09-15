@@ -22,13 +22,23 @@ Welcome to my GitHub profile.
 
 ### **Dash Board**
 
-![Dashboard](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true)
+<div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default)
+<!-- ![Dashboard](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default) -->
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default">
+
+</div>
 
 -----
 
 ### **Used Frameworks/Tools/Environment/etc.**
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ghactions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -54,3 +64,5 @@ Welcome to my GitHub profile.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+<div>
