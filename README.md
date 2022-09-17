@@ -16,7 +16,7 @@ Welcome to my GitHub profile.
   - Cryptography & Web Security
   - Compilers & Automata Theory
 
-- 📫 email : mrdcvlsc@gmail.com
+- 📫 email : mrdcvlsc@gmail.com, mordecaivelasco@gmail.com
 
 -----
 
