@@ -7,8 +7,8 @@ and striving to add a leaf of knowledge to its ever-growing tree._
 
 I'm still currently a student :student: taking up a degree in computer science.
 
-At the same time I'm also growing 🌱 my knowledge :brain: and mostly learning
-:books: new things little-by-little :feet: on my own during my free time in
+At the same time, I'm also growing 🌱 my knowledge :brain: and mostly learning
+:books: new things little-by-little :feet: on my own during my free time, in
 the following concepts :
 
 `Linear Algebra`, `BLAS Libraries & Matrix Libraries`, `x86 & x86-64 Assembly`,
