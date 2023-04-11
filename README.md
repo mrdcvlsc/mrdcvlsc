@@ -1,20 +1,20 @@
-## **Hi, I'm Mordecai Velasco!**
+## **Hi, I'm Jubal Mordecai Velasco!**
 
-Welcome to my GitHub profile.
+_Exploring the vast branches of computer science, searching for my place within it,
+and striving to add a leaf of knowledge to its ever-growing tree._
 
-### **Interests**
+**Welcome to my GitHub profile**
 
-- I'm still currently a student :student: taking up a degree in computer science.
-- At the same time I'm also growing 🌱 my knowledge and mostly learning :brain: new things :books: on my own in the following concepts :
-  - Linear Algebra
-  - BLAS Libraries & Matrix Libraries
-  - x86 & x86-64 Assembly (for optimization)
-  - SIMD Assembly Instructions & Intrinsic (for optimization)
-  - Arbitrary-Precision Arithmetic
-  - Machine Learning specifically on types of Neural Networks like FFNN,CNN,GAN & even on transformers models
-  - Full-stack development
-  - Cryptography & Web Security
-  - Compilers & Automata Theory
+I'm still currently a student :student: taking up a degree in computer science.
+
+At the same time I'm also growing 🌱 my knowledge :brain: and mostly learning
+:books: new things little-by-little :feet: on my own during my free time in
+the following concepts :
+
+`Linear Algebra`, `BLAS Libraries & Matrix Libraries`, `x86 & x86-64 Assembly`,
+`SIMD Assembly Instructions & Intrinsic`, `Arbitrary-Precision Arithmetic`,
+`Machine Learning`, `Neural Networks like FFNN, CNN, GAN & transformers models`,
+`Full-stack development`, `Cryptography`, `Web Security`, `Compilers`, `Automata Theory`.
 
 - 📫 email : mrdcvlsc@gmail.com
 
