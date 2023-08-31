@@ -26,7 +26,7 @@ the following concepts :
 
 <!-- ![Dashboard](https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile&layout=compact&langs_count=10&theme=default) -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdcvlsc&hide=html,Makefile,CMake,EJS&layout=compact&langs_count=10&theme=default&&show_icons=true) -->
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrdcvlsc&show_icons=true&theme=default&count_private=true">
 
