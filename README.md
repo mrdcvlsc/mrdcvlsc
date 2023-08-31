@@ -20,7 +20,7 @@ the following concepts :
 
 -----
 
-### **Dash Board**
+### **Dashboard**
 
 <div align="center">
 
@@ -35,7 +35,7 @@ the following concepts :
 
 -----
 
-### **Used Frameworks/Tools/Environment/etc.**
+### **I Have Experience With the Following Frameworks, Tools, Environments, etc.**
 
 <div align="center">
 
