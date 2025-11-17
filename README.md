@@ -1,20 +1,14 @@
 ## **Hi, I'm Jubal Mordecai Velasco!**
 
+Graduate, B.S. in Computer Science
+
 _Exploring the vast branches of computer science, searching for my place within it,
 and striving to add a leaf of knowledge to its ever-growing tree._
 
 **Welcome to my GitHub profile**
 
-I'm still currently a student :student: taking up a degree in computer science.
-
-At the same time, I'm also growing 🌱 my knowledge :brain: and mostly learning
-:books: new things little-by-little :feet: on my own during my free time, in
-the following concepts :
-
-`Linear Algebra`, `BLAS Libraries & Matrix Libraries`, `x86 & x86-64 Assembly`,
-`SIMD Assembly Instructions & Intrinsic`, `Arbitrary-Precision Arithmetic`,
-`Machine Learning`, `Neural Networks like FFNN, CNN, GAN & transformers models`,
-`Full-stack development`, `Cryptography`, `Web Security`, `Compilers`, `Automata Theory`.
+In my free time, I cultivate 🌱 my knowledge :brain: by learning
+:books: new things little-by-little :feet:
 
 - 📫 email : mrdcvlsc@gmail.com
 
@@ -77,6 +71,5 @@ the following concepts :
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Top Coder](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)
 
 <div>
